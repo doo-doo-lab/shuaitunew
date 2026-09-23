@@ -1,0 +1,10 @@
+{
+  "application": "rate-tu-radar",
+  "channel": "stable",
+  "version": "34",
+  "minimum_version": "14",
+  "package_url": "https://github.com/doo-doo-lab/shuaitunew/releases/download/v34/program-v34.zip",
+  "sha256": "5cf9634b6017df1aab66a416e56803a7346d5f68192a777866cc8c10d527d51e",
+  "size": 98936357,
+  "release_notes": "累计升级：总览改为玩家标签统计预览，刷新状态可在重开后保持清除；包含玩家主页标签与预警、历史补图、页面提速和后台程序自动更新。"
+}
