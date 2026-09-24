@@ -1,10 +1,9 @@
 {
   "application": "rate-tu-radar",
   "channel": "stable",
-  "version": "36",
+  "version": "37",
   "minimum_version": "14",
-  "package_url": "https://github.com/doo-doo-lab/shuaitunew/releases/download/v36/program-v36.zip",
-  "sha256": "4e74bd821392311551ceecdccf93787a81f60ae4b615a88c18779361eaac1208",
-  "size": 98936637,
-  "release_notes": "v36：打开工具约 30 秒后首次检查程序更新，此后每 5 分钟检查一次；包含 v35 及此前累计程序修改。"
+  "package_url": "https://github.com/doo-doo-lab/shuaitunew/releases/download/v37/program-v37.zip",
+  "sha256": "a12848a86c24c6c1b4c26f7067a689587dcaa728e17eb790e7e9f4d99e479457",
+  "size": 98934351
 }
